@@ -1,0 +1,17 @@
+.wrap{
+    width:100%;
+    height:500px;
+    border:1px solid #faa706;
+    display:flex;
+}
+.wrap img{
+    margin:15px;
+    border:1px solid #ddd;
+}
+.source_title{
+
+    margin:0px;
+    border:1px solid #faa706;
+    border-bottom:0px;
+    padding:15px;
+}
