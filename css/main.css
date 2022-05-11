@@ -4,6 +4,19 @@
     border:1px solid #faa706;
     display:flex;
 }
+.menu{
+    margin:10px auto;
+    background:#faa706;
+    padding:10px;
+}
+.menu a{
+    text-decoration:none;
+    color:#552405;
+    padding:0px 10px;
+}
+.menu a:hover{
+    color:red;
+}
 .wrap img{
     margin:15px;
     border:1px solid #ddd;
